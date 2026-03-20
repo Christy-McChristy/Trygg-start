@@ -1,3 +1,0 @@
-print("hello world! hey you there! whatcha name?")
-name = input
-print("why hello {name})
